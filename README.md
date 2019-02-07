@@ -8,7 +8,8 @@
 * 语言：
  * js electron
 
-* 核心代码
+* 核心流程
+
 * [ ] gui 
     * [ ] 左侧树型结构
         * [ ] 如果有新设备，自动添加（有检测循环语句）if have new devices ，auto add devices（check loop）
