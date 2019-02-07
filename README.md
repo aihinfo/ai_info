@@ -9,8 +9,10 @@
  * js electron
 
 * 核心代码
- * [ ] gui 
-     * [ ] 
+* [ ] gui 
+    * [ ] 左侧树型结构
+        * [ ] 如果有新设备，自动添加（有检测循环语句）if have new devices ，auto add devices（check loop）
+        * [ ] 双击后打开设备打开独立窗口显示页面 doubel click open new view  show devices 
  
  
  
@@ -20,5 +22,10 @@
 ![](http://xccimg.zhess.com/20190207205348_yMPmOl_Screenshot.jpeg)
  
 [参考教材](http://www.hb-qk.com/video.html)
+
+
+### 双击后打开设备打开独立窗口显示页面 doubel click open new view  show devices 
+
+![](https://github.com/openstf/stf/raw/master/doc/7s_usage.gif?raw=true)
  
   ###
