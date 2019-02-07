@@ -21,7 +21,7 @@
  
 ![](http://xccimg.zhess.com/20190207205348_yMPmOl_Screenshot.jpeg)
  
-[参考教材](http://www.hb-qk.com/video.html)
+[参考视频教材](http://www.hb-qk.com/video.html)
 
 
 ### 双击后打开设备打开独立窗口显示页面 doubel click open new view  show devices 
