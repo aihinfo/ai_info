@@ -27,6 +27,6 @@
 
 ### 双击后打开设备打开独立窗口显示页面 doubel click open new view  show devices 
 
-![](https://github.com/openstf/stf/raw/master/doc/7s_usage.gif?raw=true)
+![](https://github.com/openstf/stf/raw/master/doc/7s_usage.gif)
  
-  ###
+![](http://xccimg.zhess.com/20190207205348_yMPmOl_Screenshot.jpeg)
