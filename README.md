@@ -29,4 +29,5 @@
 
 ![](https://github.com/openstf/stf/raw/master/doc/7s_usage.gif)
  
-![](http://xccimg.zhess.com/20190207205348_yMPmOl_Screenshot.jpeg)
+
+![](http://xccimg.zhess.com/20190207210700_50hpGe_Screenshot.jpeg)
