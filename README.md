@@ -17,7 +17,11 @@
     * [ ] 右侧显示listview用<canvas>加socket读取渲染图片
         * [ ] 右键 - 选择「打开手机」，后打开设备打开独立窗口独立窗口显示页面 click open new view  show devices 
     * [ ] 检测新设备的方法：bash shell adb检测是否有新的设备，如果有执行代码（代码开启设备上的websocket端口）
-
+    * [ ] 开个线程检测shell线程（指令端）。
+    * [ ] 左侧的tree（用刚给你的代码）
+    * [ ] 右侧的view（栅格化）
+		* [ ] （链接 刚给的html和js代码websocket代码）
+		* [ ] 如果shell有新设备，加一个栅格并渲染上去
  
  
  
