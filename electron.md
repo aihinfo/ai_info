@@ -251,7 +251,30 @@ npm install --save-dev electron
 ## 1.24 MacOS Dock
 ## 1.25 Mojave 黑暗模式
 ## 1.26 多进程 Multithreading
+
+与[Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+，他是运行JavaScript在底层线程
+
+* Multi-threaded Node.js
+
+使用Node.js在Electron的Web Workers,
+webPreferences中nodeIntegrationInWorker设置为true。
+
+```js
+let win = new BrowserWindow({
+  webPreferences: {
+    nodeIntegrationInWorker: true
+  }
+})
+```
+
+
+
+
+
 ## 1.27 本地文件的拖拽 Native File Drag & Drop
+
+
 ## 1.28 提醒功能Notifications (Windows, Linux, macOS)
 ## 1.29 屏幕外渲染Offscreen Rendering
 ## 1.30 在线/离线事件发觉 Online/Offline Event Detection
@@ -260,7 +283,7 @@ npm install --save-dev electron
 ## 1.33 最近的文档 Recent Documents (Windows & macOS)
 ## 1.34 REPL（read读取、eval执行，print打印、loop循环）
 ## 1.35 获取文件 for macOS BrowserWindows
-## 1.36 安全本地能力和你的责任 , Native Capabilities, and Your 
+## 1.36 安全本地能力和你的责任Native Capabilities
 ## 1.37 责任
 ## 1.38 Snapcraft 指南 (Ubuntu Software Center & More)
 ## 1.39 Electron 支持
@@ -272,7 +295,6 @@ npm install --save-dev electron
 ## 1.45 使用Selenium 和 WebDriver
 ## 1.46 Windows 商店指南
 ## 1.47 Windows 任务条
-
 
 # 2 API 参考
 ## 2.01 加速器Accelerator
@@ -336,7 +358,6 @@ npm install --save-dev electron
 ## 2.59 window.open打开方法window.open Function
 
 # 3 API结构
-
 ## 3.01 蓝牙驱动项目BluetoothDevice Object
 ## 3.02 证书Certificate Object
 ## 3.03 证书负责CertificatePrincipal Object

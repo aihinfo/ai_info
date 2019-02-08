@@ -11,10 +11,10 @@
 * 核心流程
 
 * [ ] gui 
-    * [ ] 左侧树型结构
+    * [ ] 左侧树型结构 **treejs(可拖拽)**
         * [ ] 如果有新设备，自动添加（有检测循环语句）if have new devices ，auto add devices（check loop）
         * [ ] 「双击」后打开设备打开独立窗口显示页面 doubel click open new view  show devices 
-    * [ ] 右侧显示listview用<canva>加socket读取渲染图片
+    * [ ] 右侧显示listview用<canvas>加socket读取渲染图片
         * [ ] 右键 - 选择「打开手机」，后打开设备打开独立窗口独立窗口显示页面 click open new view  show devices 
 
  
